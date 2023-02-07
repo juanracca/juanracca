@@ -1,6 +1,6 @@
 👋 Hi, I'm Juan Racca from Buenos Aires, Argentina.
 
-🎓 I have recently finished Henry's Bootcamp as a Full-Stack web developer.
+🎓 I am Full-Stack web developer.
 
 ⛳️ In my free time i play golf.
 
